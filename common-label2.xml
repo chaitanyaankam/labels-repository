@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Labels>
+  <LabelGroup name="Product Labels">
+    <Label id="1" name="ProductName" description="Name of the product"/>
+    <Label id="2" name="ProductCode" description="Code of the product"/>
+    <Label id="3" name="Manufacturer" description="Name of the manufacturer"/>
+    <Label id="4" name="ProductionDate" description="Date of production"/>
+    <Label id="5" name="ExpiryDate" description="Expiry date of the product"/>
+  </LabelGroup>
+
+  <LabelGroup name="Packaging Labels">
+    <Label id="6" name="PackageType" description="Type of packaging"/>
+    <Label id="7" name="PackageWeight" description="Weight of the package"/>
+    <Label id="8" name="PackageDimensions" description="Dimensions of the package"/>
+  </LabelGroup>
+
+  <LabelGroup name="Shipping Labels">
+    <Label id="9" name="ShippingAddress" description="Address for shipping"/>
+    <Label id="10" name="ShippingMethod" description="Method of shipping"/>
+    <Label id="11" name="TrackingNumber" description="Tracking number for shipment"/>
+  </LabelGroup>
+
+  <LabelGroup name="Safety Labels">
+    <Label id="12" name="HazardousMaterial" description="Indicates if material is hazardous"/>
+    <Label id="13" name="HandlingInstructions" description="Instructions for handling the product"/>
+    <Label id="14" name="SafetyGuidelines" description="Guidelines for product safety"/>
+  </LabelGroup>
+
+  <LabelGroup name="Compliance Labels">
+    <Label id="15" name="Certifications" description="Product certifications"/>
+    <Label id="16" name="Regulations" description="Applicable regulations"/>
+    <Label id="17" name="Standards" description="Industry standards met"/>
+  </LabelGroup>
+</Labels>
